@@ -1,0 +1,36 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Sim_simple.cpp
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(61): error C3646: 'Antenna': unknown override specifier
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(62): error C3646: 'model': unknown override specifier
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(74): error C2143: syntax error: missing ';' before '<class-head>'
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(81): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(81): warning C4183: 'Initialize': missing return type; assumed to be a member function returning 'int'
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(82): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(82): warning C4183: 'ConcludeIteration': missing return type; assumed to be a member function returning 'int'
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(83): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(83): warning C4183: 'Conclude': missing return type; assumed to be a member function returning 'int'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2361): error C2143: syntax error: missing ';' before 'string'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2361): error C2059: syntax error: 'string'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2361): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2361): error C2447: '{': missing function header (old-style formal list?)
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(39): error C2365: 'SimpleChannel': redefinition; previous definition was 'enumerator'
+  d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(39): note: see declaration of 'SimpleChannel'
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(40): error C2365: 'UrbanMacro3D': redefinition; previous definition was 'enumerator'
+  d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(40): note: see declaration of 'UrbanMacro3D'
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(41): error C2365: 'UrbanMicro3D': redefinition; previous definition was 'enumerator'
+  d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(41): note: see declaration of 'UrbanMicro3D'
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(42): error C2365: 'UrbanMacro5G': redefinition; previous definition was 'enumerator'
+  d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(42): note: see declaration of 'UrbanMacro5G'
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(44): error C2365: 'UrbanMicro5G': redefinition; previous definition was 'enumerator'
+  d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(44): note: see declaration of 'UrbanMicro5G'
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(44): error C2371: 'Channel_Model': redefinition; different basic types
+  d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(44): note: see declaration of 'Channel_Model'
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(61): error C3646: 'Antenna': unknown override specifier
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(62): error C3646: 'model': unknown override specifier
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(75): error C2011: 'Channel': 'class' type redefinition
+  d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(75): note: see declaration of 'Channel'
+d:\google 드라이브\5g simulator\simulator\channelmodel\channel\channel_simple.h(44): fatal error C1903: unable to recover from previous error(s); stopping compilation

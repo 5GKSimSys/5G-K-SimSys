@@ -1,0 +1,4 @@
+numTTI 100
+numIteration 10
+scenario SimpleScenario
+linkDirection DownlinkOnly

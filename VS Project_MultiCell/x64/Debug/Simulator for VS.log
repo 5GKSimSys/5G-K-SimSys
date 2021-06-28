@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Simulator for VS.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BasicMain_simple.cpp
+  SystemMS_simple.cpp
+  SystemBS_simple.cpp
+  SystemSim_simple.cpp
+  Scheduling_simple.cpp
+  SchedulingMS_simple.cpp
+  SchedulingBS_simple.cpp
+  Network_simple.cpp
+  NetworkMS_simple.cpp
+  NetworkBS_simple.cpp
+  Performance_simpleLink.cpp
+c:\users\sangjin\dropbox\5g simulator\simulator\link performance\performance\performance_simplelink.cpp(54): warning C4101: 'tx': unreferenced local variable
+  Channel_simple.cpp
+  ChannelMS_simple.cpp
+  ChannelBS_simple.cpp
+  Generating Code...
+  Compiling...
+  LargeScaleChannel_simple.cpp
+  Generating Code...
+  Simulator for VS.vcxproj -> C:\Users\Sangjin\Dropbox\5G Simulator\VS Project_MultiCell\x64\Debug\MultiCell Link Level Simulation.exe
+  Simulator for VS.vcxproj -> C:\Users\Sangjin\Dropbox\5G Simulator\VS Project_MultiCell\x64\Debug\MultiCell Link Level Simulation.pdb (Full PDB)

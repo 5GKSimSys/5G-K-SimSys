@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Channel Model">
+      <UniqueIdentifier>{d97a6e2f-b6cd-432c-8add-7099d4ba2143}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Channel Model">
+      <UniqueIdentifier>{1d1820d3-b2e2-45fe-b007-7c9dbb85a2d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Link Performance">
+      <UniqueIdentifier>{b09fffd5-d0ea-4c18-b711-e96301849d54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Link Performance">
+      <UniqueIdentifier>{695560a4-50ca-41e4-9bc2-74c1b08556c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Network Configuration">
+      <UniqueIdentifier>{77d9aa6d-4ee3-4dff-8d10-28e4968d269e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Network Configuration">
+      <UniqueIdentifier>{17587b8c-7ccc-481e-9e64-c337b3400002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Radio Resource Management">
+      <UniqueIdentifier>{b4ce531b-8aa5-4f2c-ba9e-612f72a11103}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Radio Resource Management">
+      <UniqueIdentifier>{7de0a362-8367-4f5c-9d6e-3058b802210a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Simulation Top">
+      <UniqueIdentifier>{fe21abd1-b6aa-4d51-b453-5c198490983a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Simulation Top">
+      <UniqueIdentifier>{0ee3923e-51d9-4c49-a8f0-285c3da90b4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Channel Model\3D SpatialChannelModel">
+      <UniqueIdentifier>{d5c9782a-0e06-4763-90ce-c192da39b23f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Channel Model\3D SpatialChannelModel">
+      <UniqueIdentifier>{58893600-698e-43e3-ad0e-3fb1c92f0bef}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Simulator\Simulation Top\Global\Global.h">
+      <Filter>Header Files\Simulation Top</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Simulation Top\Global\SystemSimConfiguration.h">
+      <Filter>Header Files\Simulation Top</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Channel Model\Channel\Channel_NReMBB.h">
+      <Filter>Header Files\Channel Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Channel Model\ChannelBS\ChannelBS_NReMBB.h">
+      <Filter>Header Files\Channel Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Channel Model\ChannelMS\ChannelMS_NReMBB.h">
+      <Filter>Header Files\Channel Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Link Performance\Performance\Performance_NReMBB.h">
+      <Filter>Header Files\Link Performance</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Link Performance\PerformanceBS\PerformanceBS_NReMBB.h">
+      <Filter>Header Files\Link Performance</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Link Performance\PerformanceMS\PerformanceMS_NReMBB.h">
+      <Filter>Header Files\Link Performance</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Network Configuration\Network\Network_NReMBB.h">
+      <Filter>Header Files\Network Configuration</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Network Configuration\NetworkBS\NetworkBS_NReMBB.h">
+      <Filter>Header Files\Network Configuration</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Network Configuration\NetworkMS\NetworkMS_NReMBB.h">
+      <Filter>Header Files\Network Configuration</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Radio Resource Management\Scheduling\Scheduling_NReMBB.h">
+      <Filter>Header Files\Radio Resource Management</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Radio Resource Management\SchedulingBS\SchedulingBS_NReMBB.h">
+      <Filter>Header Files\Radio Resource Management</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Radio Resource Management\SchedulingMS\SchedulingMS_NReMBB.h">
+      <Filter>Header Files\Radio Resource Management</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Simulation Top\Global\SLS_NReMBB.h">
+      <Filter>Header Files\Simulation Top</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Simulation Top\Network Element\SystemBS_NReMBB.h">
+      <Filter>Header Files\Simulation Top</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Simulation Top\Network Element\SystemMS_NReMBB.h">
+      <Filter>Header Files\Simulation Top</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Simulation Top\Global\SystemSim_NReMBB.h">
+      <Filter>Header Files\Simulation Top</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.h">
+      <Filter>Header Files\Channel Model\3D SpatialChannelModel</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Simulator\Simulation Top\Global\Global.cpp">
+      <Filter>Source Files\Simulation Top</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Channel Model\Channel\Channel_NReMBB.cpp">
+      <Filter>Source Files\Channel Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Channel Model\ChannelBS\ChannelBS_NReMBB.cpp">
+      <Filter>Source Files\Channel Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Channel Model\ChannelMS\ChannelMS_NReMBB.cpp">
+      <Filter>Source Files\Channel Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Network Configuration\Network\Network_NReMBB.cpp">
+      <Filter>Source Files\Network Configuration</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Network Configuration\NetworkBS\NetworkBS_NReMBB.cpp">
+      <Filter>Source Files\Network Configuration</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Network Configuration\NetworkMS\NetworkMS_NReMBB.cpp">
+      <Filter>Source Files\Network Configuration</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Link Performance\Performance\Performance_NReMBB.cpp">
+      <Filter>Source Files\Link Performance</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Link Performance\PerformanceBS\PerformanceBS_NReMBB.cpp">
+      <Filter>Source Files\Link Performance</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Link Performance\PerformanceMS\PerformanceMS_NReMBB.cpp">
+      <Filter>Source Files\Link Performance</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Simulation Top\Global\SystemSim_NReMBB.cpp">
+      <Filter>Source Files\Simulation Top</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Simulation Top\Network Element\SystemBS_NReMBB.cpp">
+      <Filter>Source Files\Simulation Top</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Simulation Top\Network Element\SystemMS_NReMBB.cpp">
+      <Filter>Source Files\Simulation Top</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp">
+      <Filter>Source Files\Channel Model\3D SpatialChannelModel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Radio Resource Management\Scheduling\Scheduling_NReMBB.cpp">
+      <Filter>Source Files\Radio Resource Management</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Radio Resource Management\SchedulingBS\SchedulingBS_NReMBB.cpp">
+      <Filter>Source Files\Radio Resource Management</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Simulator\Radio Resource Management\SchedulingMS\SchedulingMS_NReMBB.cpp">
+      <Filter>Source Files\Radio Resource Management</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

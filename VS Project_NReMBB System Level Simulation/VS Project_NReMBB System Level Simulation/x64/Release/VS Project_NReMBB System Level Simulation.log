@@ -1,0 +1,104 @@
+﻿  3DSpatialChannelModel_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(689): warning C4101: 'cdistance2D': unreferenced local variable
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(689): warning C4101: 'gdistance2D': unreferenced local variable
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(899): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(900): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(916): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1003): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1004): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1005): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1006): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1007): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1008): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1009): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1010): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1531): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1532): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1533): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1534): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1606): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1607): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1655): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\Simulator\Channel Model\3D SpatialChannelModel\3DSpatialChannelModel_NReMBB.cpp(1656): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ChannelBS_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  ChannelMS_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  Channel_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Channel Model\Channel\Channel_NReMBB.cpp(164): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Channel Model\Channel\Channel_NReMBB.cpp(165): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+  PerformanceBS_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Link Performance\PerformanceBS\PerformanceBS_NReMBB.cpp(185): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Link Performance\PerformanceBS\PerformanceBS_NReMBB.cpp(190): warning C4018: '<': signed/unsigned mismatch
+..\..\Simulator\Link Performance\PerformanceBS\PerformanceBS_NReMBB.cpp(184): warning C4101: 'siIndex': unreferenced local variable
+..\..\Simulator\Link Performance\PerformanceBS\PerformanceBS_NReMBB.cpp(228): warning C4018: '<': signed/unsigned mismatch
+  PerformanceMS_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  Performance_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Link Performance\Performance\Performance_NReMBB.cpp(80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  NetworkBS_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Network Configuration\NetworkBS\NetworkBS_NReMBB.cpp(111): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Network Configuration\NetworkBS\NetworkBS_NReMBB.cpp(112): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Network Configuration\NetworkBS\NetworkBS_NReMBB.cpp(132): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Network Configuration\NetworkBS\NetworkBS_NReMBB.cpp(133): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+  NetworkMS_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Network Configuration\NetworkMS\NetworkMS_NReMBB.cpp(91): warning C4101: 'interSiteDistance': unreferenced local variable
+  Network_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  SchedulingBS_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Radio Resource Management\SchedulingBS\SchedulingBS_NReMBB.cpp(148): warning C4018: '<': signed/unsigned mismatch
+..\..\Simulator\Radio Resource Management\SchedulingBS\SchedulingBS_NReMBB.cpp(299): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+..\..\Simulator\Radio Resource Management\SchedulingBS\SchedulingBS_NReMBB.cpp(368): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+  SchedulingMS_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Radio Resource Management\SchedulingMS\SchedulingMS_NReMBB.cpp(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\Simulator\Radio Resource Management\SchedulingMS\SchedulingMS_NReMBB.cpp(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\Simulator\Radio Resource Management\SchedulingMS\SchedulingMS_NReMBB.cpp(69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\Simulator\Radio Resource Management\SchedulingMS\SchedulingMS_NReMBB.cpp(142): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+  Scheduling_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Radio Resource Management\Scheduling\Scheduling_NReMBB.cpp(110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\Simulator\Radio Resource Management\Scheduling\Scheduling_NReMBB.cpp(139): warning C4018: '<': signed/unsigned mismatch
+  Global.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Simulation Top\Global\Global.cpp(48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SystemSim_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+..\..\Simulator\Simulation Top\Global\SystemSim_NReMBB.cpp(113): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\Simulator\Simulation Top\Global\SystemSim_NReMBB.cpp(114): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SystemBS_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  SystemMS_NReMBB.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  Generating code
+c:\simulator\5g k-simsys (190227)\simulator\radio resource management\schedulingms\schedulingms_nrembb.cpp(553): warning C4715: 'SchedulingMS::Beamforming': not all control paths return a value
+  2813 of 2817 functions (99.9%) were compiled, the rest were copied from previous compilation.
+    406 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VS Project_NReMBB System Level Simulation.vcxproj -> C:\Simulator\5G K-SimSys (190227)\VS Project_NReMBB System Level Simulation\x64\Release\VS Project_NReMBB System Level Simulation.exe
+  VS Project_NReMBB System Level Simulation.vcxproj -> C:\Simulator\5G K-SimSys (190227)\VS Project_NReMBB System Level Simulation\x64\Release\VS Project_NReMBB System Level Simulation.pdb (Full PDB)

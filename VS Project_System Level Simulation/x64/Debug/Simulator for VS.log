@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Simulator for VS.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BasicMain_simple.cpp
+  Simulator for VS.vcxproj -> C:\Users\민식\Desktop\5G Simulator - Reference\VS Project_System Level Simulation\x64\Debug\System Level Simulator.exe
+  Simulator for VS.vcxproj -> C:\Users\민식\Desktop\5G Simulator - Reference\VS Project_System Level Simulation\x64\Debug\System Level Simulator.pdb (Full PDB)
