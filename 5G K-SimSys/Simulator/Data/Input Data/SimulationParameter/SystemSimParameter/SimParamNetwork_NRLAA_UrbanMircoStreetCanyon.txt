@@ -1,0 +1,17 @@
+model	0
+numLayer	1 
+numSite	19
+numSector	3
+numMsPerSector	30
+numMsPerMacro	90
+msMobility	3
+firstSectorAngle 30
+secondSectorAngle 150
+thirdSectorAngle -90
+bufferModel	1
+meanArrivalTime	2.1
+bufferSize	4000000
+UrbanMicroStreetCanyon.interSiteDistance	200
+UrbanMicroStreetCanyon.height	10
+UrbanMicroStreetCanyon.minDistanceToBS	10
+UrbanMicroStreetCanyon.indoorMsFraction	80

@@ -1,0 +1,7 @@
+numTTI	500
+numerologyParameter	3
+numSymbolperTTI	14
+numIteration	1
+feedbackPeriod	5
+scenario	1
+linkDirection	1

@@ -1,0 +1,6 @@
+trafficModel	0
+trafficLoad	1
+dataSize	4000
+algorithm	0
+numRB	1
+realisticFeedback	0

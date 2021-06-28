@@ -1,0 +1,4 @@
+numTTI	10
+numIteration	100
+scenario	0
+linkDirection	0

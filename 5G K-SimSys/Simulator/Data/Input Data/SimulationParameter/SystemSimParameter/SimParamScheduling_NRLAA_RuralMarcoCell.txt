@@ -1,0 +1,4 @@
+algorithm	0
+numRB	1
+realisticFeedback	0
+realisticChannelEstimation	0

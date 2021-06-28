@@ -1,0 +1,11 @@
+model	2
+numSite	12
+numSector	3
+numMsPerSector	5
+bufferModel	1
+meanArrivalTime	2.1
+bufferSize	4000000
+IndoorOffice.interSiteDistance	20
+IndoorOffice.height	3
+IndoorOffice.minDistanceToBS	0
+IndoorOffice.indoorMsFraction	100

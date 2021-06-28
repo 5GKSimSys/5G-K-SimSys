@@ -1,0 +1,11 @@
+numLayer	1 
+macro.numSite	19
+macro.numSector	3
+macro.interSiteDistance	500
+macro.height	25
+micro.numSite	0
+micro.numSector	0
+micro.interSiteDistance	0
+micro.height	10
+numMsPerMacro	30
+minDistanceToBS	30

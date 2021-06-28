@@ -1,0 +1,12 @@
+model	0
+numLayer		1
+numMacroBS	19
+numSector	3
+numMsPerSector	1
+bufferModel	1
+meanArrivalTime	2.0
+bufferSize	40000
+UrbanMacroCell.interSiteDistance	500
+UrbanMacroCell.height	25
+UrbanMacroCell.minDistanceToBS	10
+UrbanMacroCell.indoorMsFraction	80

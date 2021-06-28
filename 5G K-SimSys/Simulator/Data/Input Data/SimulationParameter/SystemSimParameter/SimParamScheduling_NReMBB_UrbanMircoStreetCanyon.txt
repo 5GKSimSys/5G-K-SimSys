@@ -1,0 +1,7 @@
+algorithm	0
+dataSize	20000
+numRB	10
+numCB	7
+numCBG	7
+realisticFeedback	0
+realisticChannelEstimation	0

@@ -1,0 +1,3 @@
+checkPerformanceParameter	1
+realisticChannelEstimation	0
+targetConnectionDensity	1

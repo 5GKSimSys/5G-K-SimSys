@@ -1,0 +1,15 @@
+model	0
+numLayer	1 
+numSite	19
+numSector	3
+numMsPerSector	1
+numMsPerMacro	30
+minDistanceToBS	30
+indoorMsFraction	80
+msMobility	3
+firstSectorAngle 30
+secondSectorAngle 150
+thirdSectorAngle -90
+UMa3D.interSiteDistance	500
+UMa3D.height	25
+UMa3D.minDistanceToBS	35

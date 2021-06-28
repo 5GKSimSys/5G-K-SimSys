@@ -1,0 +1,9 @@
+NewDistance	20
+NewPClass	3
+numTTI	1000
+numerologyParameter	0
+numSymbolperTTI	14
+numIteration	1
+feedbackPeriod	5
+scenario	1
+linkDirection	1

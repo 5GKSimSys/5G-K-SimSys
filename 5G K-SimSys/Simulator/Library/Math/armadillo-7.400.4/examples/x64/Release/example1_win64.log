@@ -1,0 +1,9 @@
+﻿  example1.cpp
+c:\users\sangj\downloads\armadillo-7.400.4.tar\armadillo-7.400.4\include\armadillo_bits/arma_config.hpp(14): warning C4005: 'ARMA_USE_LAPACK': macro redefinition
+  c:\users\sangj\downloads\armadillo-7.400.4.tar\armadillo-7.400.4\include\armadillo_bits/arma_config.hpp(14): note: command-line arguments:  see previous definition of 'ARMA_USE_LAPACK'
+c:\users\sangj\downloads\armadillo-7.400.4.tar\armadillo-7.400.4\include\armadillo_bits/arma_config.hpp(15): warning C4005: 'ARMA_USE_BLAS': macro redefinition
+  c:\users\sangj\downloads\armadillo-7.400.4.tar\armadillo-7.400.4\include\armadillo_bits/arma_config.hpp(15): note: command-line arguments:  see previous definition of 'ARMA_USE_BLAS'
+  example1_win64.vcxproj -> C:\Users\sangj\Downloads\armadillo-7.400.4.tar\armadillo-7.400.4\examples\x64\Release\example1_win64.exe
+  lib_win64\blas_win64_MT.dll
+  lib_win64\lapack_win64_MT.dll
+          2개 파일이 복사되었습니다.
